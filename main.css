@@ -1,0 +1,40 @@
+body {
+    font-size: 14px;
+    color: #ebebeb;
+    background: #1e1e1f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+}
+
+form {
+    padding: 20px;
+    background: #424244;
+    margin: 0 auto;
+}
+
+input {
+    background: #888;
+    border: 1px solid #000;
+}
+
+input:active {
+    background: rgb(221, 4, 4);
+    border: 1px solid #000;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #424244;
+    margin: 1em 0;
+    padding: 0; 
+}
